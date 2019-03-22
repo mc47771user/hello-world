@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+Mc Here,
+
+I like python, fortran, and chocolate
+
+Best Wishes,
+Mycroft
